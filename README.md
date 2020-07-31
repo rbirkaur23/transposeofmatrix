@@ -1,2 +1,2 @@
 # transposeofmatrix
-Transpose of matrix
+A python program to print Transpose of matrix
